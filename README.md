@@ -5,6 +5,7 @@ Github Repo of team Predictive Powerhouses for their ML project in the event Hac
                                                               
                
                  [PREDICTIVE POWERHOUSES (1).pdf](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/files/14650441/PREDICTIVE.POWERHOUSES.1.pdf)
+            paste this link to download the ppt: https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/files/14650441/PREDICTIVE.POWERHOUSES.1.pdf
 
                                  **  Linguistic Odyssey  **
                                  
