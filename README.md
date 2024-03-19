@@ -37,6 +37,13 @@ Since reading long health report pdfs can be time consuming and extracting the k
 
                                **   KEY FEATURES of Sentiment Analysis **
                                
+1. Provides a summary of lenghty medical report.
+
+2. It helps in:
+  Analyzing critical medical information of a patient and diagnose accurately.
+  Quicker diagnosis without flipping through multiple records.
+  Highlight the symptoms, treatments, and the progress of a patient in a presentable manner.
+  Manage and locate missing medical records of a patient.
 
 
 
