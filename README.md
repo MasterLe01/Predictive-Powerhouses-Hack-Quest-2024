@@ -1,7 +1,11 @@
 # Predictive-Powerhouses-Hack-Quest-2024
 Github Repo of team Predictive Powerhouses for their ML project in the event Hack Quest of Avishkar 2024
+
+                                                              **   THE PPT **
+                                                              
                
-                 
+                 [PREDICTIVE POWERHOUSES (1).pdf](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/files/14650441/PREDICTIVE.POWERHOUSES.1.pdf)
+
                                  **  Linguistic Odyssey  **
                                  
 The Customer Review   ** Sentiment Analysis Model**
@@ -35,7 +39,7 @@ https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/1503
 Since reading long health report pdfs can be time consuming and extracting the key features may not possible in a single read. Hence to solve this problem, our team has tried to develop a model to create a concise summaries that capture essential information from the pdf reports, highlighting critical issues. 
 
 
-                               **   KEY FEATURES of Sentiment Analysis **
+                                                   **   KEY FEATURES of Sentiment Analysis **
                                
 1. Provides a summary of lenghty medical report.
 
@@ -45,9 +49,9 @@ Since reading long health report pdfs can be time consuming and extracting the k
   Highlight the symptoms, treatments, and the progress of a patient in a presentable manner.
   Manage and locate missing medical records of a patient.
 
-
-
-          
+                                                    ** Market Report for Summarization of Medical Reports **
+   
+        
 
 
 
