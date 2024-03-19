@@ -51,7 +51,12 @@ Since reading long health report pdfs can be time consuming and extracting the k
   Quicker diagnosis without flipping through multiple records.
   Highlight the symptoms, treatments, and the progress of a patient in a presentable manner.
   Manage and locate missing medical records of a patient.
-                                                       ** The Video and the Demonstration **
+                                                       ** The Video 
+
+https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/101547243/3b47f90a-b7ae-4d27-84f5-755b818cf69a
+
+and the Demonstration **
+   
 
                                                     ** Market Report for Summarization of Medical Reports **
    ![image](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/30e248b9-41f5-4bc1-aff6-dd54660e7efe)
