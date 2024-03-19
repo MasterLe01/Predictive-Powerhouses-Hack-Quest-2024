@@ -51,7 +51,7 @@ Since reading long health report pdfs can be time consuming and extracting the k
   Manage and locate missing medical records of a patient.
 
                                                     ** Market Report for Summarization of Medical Reports **
-   
+
         
 
 
