@@ -51,6 +51,9 @@ Since reading long health report pdfs can be time consuming and extracting the k
   Manage and locate missing medical records of a patient.
 
                                                     ** Market Report for Summarization of Medical Reports **
+   ![image](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/30e248b9-41f5-4bc1-aff6-dd54660e7efe)
+  ![image](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/061a7a74-a1b1-4c60-b5e5-6089ded8f3c8)
+
 
         
 
