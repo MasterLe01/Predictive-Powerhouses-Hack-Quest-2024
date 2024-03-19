@@ -31,10 +31,9 @@ Gives the classification Report
 https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/150316743/01638495-4d5b-4fb6-8e7e-9666ce963121
 
                                       ** The pictures of the website**
-![Screenshot 2024-03-19 180445](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/4b4982c1-aeac-4f96-8344-7c6da035a636)
 
-
-![Screenshot 2024-03-19 180511](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/500e67fa-0407-4133-a523-a9e800d3ddcf)
+![Screenshot 2024-03-19 180445](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/c96861fd-b9d4-40ca-abf0-862d21cff70b)
+![Screenshot 2024-03-19 180655](https://github.com/MasterLe01/Predictive-Powerhouses-Hack-Quest-2024/assets/144511421/8050abc7-7e59-45b4-a4a8-d5dbc9e076b5)
 
 
                           
